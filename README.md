@@ -33,6 +33,17 @@ The final model achieved an expected profit of **$14.5 billion**, optimized thro
 
 ---
 
+## 📁 Data Access
+The dataset (`BAN6025Project2Data.csv`) is hosted on Google Drive due to size limitations.
+
+🔗 [Download the dataset here](https://drive.google.com/file/d/1955_-DMsVYlVefJUPvomWO1uzl7EqLdo/view?usp=drive_link)
+
+**Instructions:**
+1. Download the CSV from the link above.
+2. Place it in the project directory before running the notebooks.
+
+---
+
 ## **Getting Started**
 1. **Clone the repository:**
    ```bash
@@ -49,7 +60,6 @@ The final model achieved an expected profit of **$14.5 billion**, optimized thro
 │   ├── Bayesion Optimization.ipynb          # Bayesian optimization process
 │   ├── Model Comparison.xlsx                # Model tracking & performance metrics
 │   └── Postmortem.docx                      # Further analysis & final thoughts
-├── BAN6025Project2Data.zip                  # Project dataset
 ├── final_model.ipynb                        # Final model notebook
 ├── Iterative Modeling Process.docx          # report documenting modeling process
 └── README.md                         
